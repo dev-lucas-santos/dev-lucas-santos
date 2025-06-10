@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao Meu Perfil  😁
 
  <div>
    <a href="https://github.com/dev-lucas-santos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-luicas-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-lucas-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lucas-santos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
