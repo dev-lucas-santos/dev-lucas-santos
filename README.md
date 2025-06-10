@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao Meu Perfil  😁
+## Oi eu sou o Lucas. Bem-vindo(a) ao Meu Perfil  😁
 
  <div>
    <a href="https://github.com/dev-lucas-santos">
