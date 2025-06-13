@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo! da uma olhada la !
+### Pra conteúdo sobre programação me segue nas redes abaixo! da uma olhada la ! #EM BREVE
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
